@@ -1,7 +1,7 @@
 # Sonary React app
 
 This project retrieves data from Musixmatch API.<br>
-This is a team project made with Pablo Apausa and Daniela Fermin
+This is a team project made with @Pablo apusa and Daniela Fermin
 ## You can find in the app web
 
 <ul>
