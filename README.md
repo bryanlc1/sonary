@@ -1,3 +1,16 @@
+# Sonary React app
+
+This project retrieves data from Musixmatch API.
+This is a team project made with Pablo Apausa and Daniela Fermin
+## You can find in the app web
+
+<ul>
+    <li>Unit and component testing</li>
+    <li>React and Redux to handle the local state</li>
+    <li>Enviroment variables</li>
+    <li>SOLID principles</li>
+    <li>ESlint</li>
+</ul>
 
 ## Available Scripts
 
@@ -50,5 +63,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 =======
 ### `npm run build` fails to minify
-
 
